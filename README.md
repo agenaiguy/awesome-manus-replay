@@ -97,6 +97,101 @@ comprehend the workings and decision-making processes of the AI .
     - **Description**: Analyze mobile data consumption patterns during the Thanksgiving weekend and present findings.
     - **Link**: [https://manus.im/share/f878HJiFifFQca1f0tckhQ](https://manus.im/share/f878HJiFifFQca1f0tckhQ) [**Replay**](https://manus.im/share/f878HJiFifFQca1f0tckhQ?replay=1)
 
+
+### **Environmental and Societal Impact**
+18. **Create a detailed report on the impacts of climate change on Earth and human society in the next century**  
+   - **Description**: Create a detailed report on the impacts of climate change on Earth and human society in the next century.  
+   - **Link**: [https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25) [**Replay**](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25?replay=1)(https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25?replay=1)
+
+19. **Draft a proposal for a solar-powered self-sufficient home at the coordinates 42°45'50.1"N 20°03'27.0"E**  
+   - **Description**: Draft a proposal for a solar-powered self-sufficient home at the coordinates 42°45'50.1"N 20°03'27.0"E. The house should be 200 square meters, single-story, with three attached garages, equipped with geothermal HVAC (heat pump), gravity/soil filters, an independent plumbing system, solar power, and a 72-hour battery backup.  
+   - **Link**: [https://manus.im/share/54gYsjcwsi8nDvG0PybWDe](https://manus.im/share/54gYsjcwsi8nDvG0PybWDe) [**Replay**](https://manus.im/share/54gYsjcwsi8nDvG0PybWDe?replay=1)(https://manus.im/share/54gYsjcwsi8nDvG0PybWDe?replay=1)
+
+
+
+### **Data Analysis and Visualization**
+20. **Create a quadrant chart to visualize the scoring efficiency of all NBA players**  
+   - **Description**: I need to create a quadrant chart that uses scoring and field goal percentage to position each player’s avatar coordinates, generating an intuitive visualization of scoring efficiency for all NBA players.  
+   - **Link**: [https://manus.im/share/gsehnGPo5AyhGy6xpi4iR3](https://manus.im/share/gsehnGPo5AyhGy6xpi4iR3) [**Replay**](https://manus.im/share/gsehnGPo5AyhGy6xpi4iR3?replay=1)(https://manus.im/share/gsehnGPo5AyhGy6xpi4iR3?replay=1)
+
+21. **Identify the largest real estate brokerages in the top ten major metropolitan areas**  
+   - **Description**: Identify the largest real estate brokerages in the top ten major metropolitan areas and break them down by number of agents, total transactions, total revenue, and average commission per deal.  
+   - **Link**: [https://manus.im/share/qinzRC0m770weHZbbLkmjk](https://manus.im/share/qinzRC0m770weHZbbLkmjk) [**Replay**](https://manus.im/share/qinzRC0m770weHZbbLkmjk?replay=1)(https://manus.im/share/qinzRC0m770weHZbbLkmjk?replay=1)
+
+
+
+### **Technology and Product Research**
+22. **Help me with product research by comparing and analyzing all MacBook models in Apple’s history**  
+   - **Description**: Can you help me with product research? For example, can you compare and analyze all MacBook models in Apple’s history?  
+   - **Link**: [https://manus.im/share/5zvwZicGyNCTWCzsLSGzBe](https://manus.im/share/5zvwZicGyNCTWCzsLSGzBe) [**Replay**](https://manus.im/share/5zvwZicGyNCTWCzsLSGzBe?replay=1)(https://manus.im/share/5zvwZicGyNCTWCzsLSGzBe?replay=1)
+
+23. **Analyze TSMC’s $100 billion investment in the U.S.**  
+   - **Description**: TSMC is investing $100 billion in the U.S. for new factories, etc. Analyze their financial status, funding methods, potential fund allocation, and what this means for their market position and the U.S. economy.  
+   - **Link**: [https://manus.im/share/36yJyaKuyny4tVUrqcQupK](https://manus.im/share/36yJyaKuyny4tVUrqcQupK) [**Replay**](https://manus.im/share/36yJyaKuyny4tVUrqcQupK?replay=1)(https://manus.im/share/36yJyaKuyny4tVUrqcQupK?replay=1)
+
+24. **Create a dynamic teaching webpage for quantum computing**  
+   - **Description**: Create a dynamic teaching webpage for quantum computing.  
+   - **Link**: [https://manus.im/share/I1HGZeicXgHhRfgI8xxjMM](https://manus.im/share/I1HGZeicXgHhRfgI8xxjMM) [**Replay**](https://manus.im/share/I1HGZeicXgHhRfgI8xxjMM?replay=1)(https://manus.im/share/I1HGZeicXgHhRfgI8xxjMM?replay=1)
+
+
+
+### **Travel and Outdoor Activities**
+25. **Research the best hiking trails in the Swiss Alps**  
+   - **Description**: Research the best hiking trails in the Swiss Alps.  
+   - **Link**: [https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9) [**Replay**](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)(https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)
+
+26. **Plan a two-month family trip for three people during the upcoming summer vacation (July to September)**  
+   - **Description**: Can you help me plan a two-month family trip for three people during the upcoming summer vacation (July to September)? Include one month in Australia, followed by New Zealand, Argentina (and other parts of South America), and Antarctica. Provide itinerary details, accommodation recommendations, budget estimates, and food guides, then generate a detailed travel handbook.  
+   - **Link**: [https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i) [**Replay**](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i?replay=1)(https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i?replay=1)
+
+27. **Find round-trip non-stop flights from Seattle to London during the Wimbledon Championships**  
+   - **Description**: I need round-trip non-stop flights from Seattle to London during the Wimbledon Championships, valid for about one week (5-8 days). Dates are flexible within that period. Tickets must have lie-flat seats and be fully refundable. Provide 10 good options, sorted by lowest price, with direct booking links.  
+   - **Link**: [https://manus.im/share/7nHlnYtHA4ZJAUlVMOB6Ns](https://manus.im/share/7nHlnYtHA4ZJAUlVMOB6Ns) [**Replay**](https://manus.im/share/7nHlnYtHA4ZJAUlVMOB6Ns?replay=1)(https://manus.im/share/7nHlnYtHA4ZJAUlVMOB6Ns?replay=1)
+
+
+
+### **Creative Tools and Writing**
+28. **Simplify scriptwriting and plot development for a video production and narrative design creator**  
+   - **Description**: As a self-media creator specializing in video production (filming/editing) and narrative design for over 3 years, I need you to use tools to simplify scriptwriting and plot development. Key requirement: Script creation tools for dialogue/storyboards.  
+   - **Link**: [https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD) [**Replay**](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD?replay=1)(https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD?replay=1)
+
+29. **Write a short science fiction story based on cutting-edge physics discoveries**  
+   - **Description**: Write a short science fiction story based on cutting-edge physics discoveries. It should have a solid scientific foundation and an O. Henry-style ending.  
+   - **Link**: [https://manus.im/share/uxbUSW7vlR0EfOb7l5vPTk](https://manus.im/share/uxbUSW7vlR0EfOb7l5vPTk) [**Replay**](https://manus.im/share/uxbUSW7vlR0EfOb7l5vPTk?replay=1)(https://manus.im/share/uxbUSW7vlR0EfOb7l5vPTk?replay=1)
+
+
+
+### **Scientific Research and Innovation**
+30. **Provide a detailed plan for designing a room-temperature superconductor via computer simulation**  
+   - **Description**: Provide a detailed plan for designing a room-temperature superconductor via computer simulation.  
+   - **Link**: [https://manus.im/share/1Swjk9Byzk0JplZyFO97EQ](https://manus.im/share/1Swjk9Byzk0JplZyFO97EQ) [**Replay**](https://manus.im/share/1Swjk9Byzk0JplZyFO97EQ?replay=1)(https://manus.im/share/1Swjk9Byzk0JplZyFO97EQ?replay=1)
+
+31. **Summarize the latest progress in high-temperature superconductivity research and suggest 10 PhD directions**  
+   - **Description**: Summarize the latest progress in high-temperature superconductivity research and suggest 10 directions that could be explored for a physics PhD.  
+   - **Link**: [https://manus.im/share/3bT5qfSNpEKDIFJJHXKhis](https://manus.im/share/3bT5qfSNpEKDIFJJHXKhis) [**Replay**](https://manus.im/share/3bT5qfSNpEKDIFJJHXKhis?replay=1)(https://manus.im/share/3bT5qfSNpEKDIFJJHXKhis?replay=1)
+
+32. **Integrate LLMs’ symbolic reasoning with robotic reinforcement learning for a grasping task**  
+   - **Description**: How can the symbolic reasoning capabilities of LLMs be combined with robotic reinforcement learning (e.g., RT-2)? Design a language-instruction-based grasping task where the model generates a robust control strategy for objects with unseen geometric parameters (achieving >90% success rate under ±15% parameter perturbation), and clearly define the final output specifications, including policy matrix, stability proof, and failure mode analysis.  
+   - **Link**: [https://manus.im/share/p7r30L2z544oqW3LB5K8bW](https://manus.im/share/p7r30L2z544oqW3LB5K8bW) [**Replay**](https://manus.im/share/p7r30L2z544oqW3LB5K8bW?replay=1)(https://manus.im/share/p7r30L2z544oqW3LB5K8bW?replay=1)
+
+
+
+### **Literature and Media Studies**
+33. **Create a table of the best books on media and linguistics published in France from 2019 to 2025**  
+   - **Description**: I want Manus to create a table listing the best books on media and linguistics (as separate topics) published in France from 2019 to 2025. Summarize why they are the best. Each category should have at least 15 books, covering Dewey Decimal ranges 070 to 099 and 400 to 409.  
+   - **Link**: [https://manus.im/share/mvppKbruZGKLeIGDfuLRVw](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw) [**Replay**](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw?replay=1)(https://manus.im/share/mvppKbruZGKLeIGDfuLRVw?replay=1)
+
+
+
+### **Astronomy and Historical Analysis**
+34. **Debunk or confirm the “Christmas Star” phenomenon of Jupiter and Saturn every 800 years**  
+   - **Description**: Debunk or confirm whether Jupiter and Saturn align so closely that they create a special “Christmas Star” every 800 years or so, including an occurrence around 0 AD, providing convincing evidence without relying on other sources.  
+   - **Link**: [https://manus.im/share/rK3HzIGPADmsxXuETdAoBP](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP) [**Replay**](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)(https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)
+
+35. **Research how fire control technologies aided the U.S. Pacific Fleet in WWII**  
+   - **Description**: Research damage control, particularly how fire control technologies helped the U.S. Pacific Fleet resist air attacks and ultimately defeat Japan during WWII. Focus on the Pearl Harbor attack, the Battle of Midway, and the Battle of the Coral Sea.  
+   - **Link**: [https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9) [**Replay**](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)(https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)
+
 ## 中文用例
 
 ### 小说创作
