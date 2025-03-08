@@ -192,6 +192,55 @@ comprehend the workings and decision-making processes of the AI .
    - **Description**: Research damage control, particularly how fire control technologies helped the U.S. Pacific Fleet resist air attacks and ultimately defeat Japan during WWII. Focus on the Pearl Harbor attack, the Battle of Midway, and the Battle of the Coral Sea.  
    - **Link**: [https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9)  |  [**Replay**](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)(https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)
 
+36. **Best Books on Media and Linguistics in France 2019-2025**  
+   - **Description**: A curated list of the best books on media (Dewey 070-099) and linguistics (Dewey 400-409) published in France between 2019 and 2025, including summaries of their significance.  
+   - **Link**: [https://manus.im/share/mvppKbruZGKLeIGDfuLRVw](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw) | [**Replay**](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw?replay=1)
+
+37. **Largest Real Estate Brokerages in Major Metro Areas**  
+   - **Description**: An analysis of the largest real estate brokerages in the top 10 U.S. metro areas, detailing agent numbers, transactions, revenue, and average commission per side.  
+   - **Link**: [https://manus.im/share/qinzRC0m770weHZbbLkmjk](https://manus.im/share/qinzRC0m770weHZbbLkmjk) | [**Replay**](https://manus.im/share/qinzRC0m770weHZbbLkmjk?replay=1)
+
+38. **Impact of Fire Control Technologies on U.S. Victory in WWII**  
+   - **Description**: A research study on how fire control technologies aided the U.S. Pacific Fleet in surviving air strikes during WWII, focusing on Pearl Harbor, Midway, and Coral Sea battles.  
+   - **Link**: [https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9) | [**Replay**](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)
+
+39. **Generate SEO-Friendly Blog That Passes Google AI Test**  
+   - **Description**: A guide on creating blog content optimized for SEO and compliant with Google’s AI content detection standards.  
+   - **Link**: [https://manus.im/share/xXJI86iOnCN86hsDgUCBZU](https://manus.im/share/xXJI86iOnCN86hsDgUCBZU) | [**Replay**](https://manus.im/share/xXJI86iOnCN86hsDgUCBZU?replay=1)
+
+40. **Impact of Climate Change on Earth and Society Next Century**  
+   - **Description**: A detailed report projecting the effects of climate change on Earth’s ecosystems and human society over the next 100 years.  
+   - **Link**: [https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25) | [**Replay**](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25?replay=1)
+
+41. **Best Hiking Trails in the Swiss Alps**  
+   - **Description**: A researched list of top hiking trails in the Swiss Alps, with details on difficulty, scenery, and accessibility.  
+   - **Link**: [https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9) | [**Replay**](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)
+
+42. **Scriptwriting Tools for Video Production and Narrative Design**  
+   - **Description**: A selection of tools to streamline scriptwriting, dialogue, and storyboarding for video production and narrative design.  
+   - **Link**: [https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD) | [**Replay**](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD?replay=1)
+
+43. **Two-Month Family Trip Itinerary and Guide**  
+   - **Description**: A comprehensive travel handbook for a two-month family trip across Australia, New Zealand, Argentina, South America, and Antarctica, including itinerary, accommodations, budget, and food guide.  
+   - **Link**: [https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i) | [**Replay**](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i?replay=1)
+
+44. **New Ways to Play The Sims**  
+   - **Description**: A YouTube script exploring player types, motivations, and innovative ways to enjoy The Sims, tailored for fans.  
+   - **Link**: [https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd) | [**Replay**](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd?replay=1)
+
+45. **Do Jupiter and Saturn Form a Christmas Star Every 800 Years?**  
+   - **Description**: An investigation into the claim that Jupiter and Saturn align to form a 'Christmas Star' every 800 years, with evidence-based validation or debunking.  
+   - **Link**: [https://manus.im/share/rK3HzIGPADmsxXuETdAoBP](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP) | [**Replay**](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)
+
+46. **Challenges in Adapting ICE for Titan’s Conditions**  
+   - **Description**: A study on the technical challenges of adapting internal combustion engines (ICE) to Titan’s methane-rich atmosphere and extreme conditions.  
+   - **Link**: [https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm) | [**Replay**](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm?replay=1)
+
+47. **YTD Performance of MEGA7 Stocks**  
+   - **Description**: A report on the year-to-date performance of the MEGA7 stocks as of March 08, 2025, based on available financial data.  
+   - **Link**: [https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1) | [**Replay**](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1?replay=1)
+
+
 ## 中文用例
 
 ### 小说创作
