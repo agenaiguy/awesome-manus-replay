@@ -32,7 +32,7 @@ comprehend the workings and decision-making processes of the AI .
 
 3. **Salesforce Agent Product Analysis and Outlook**
    - **Description**: Conduct an in-depth analysis of Salesforce and its agent products, exploring their market outlook.
-   - **Link**: [https://manus.im/share/ls6jeWDl5omY1N0gel9RA2](https://manus.im/share/ls6jeWDl5omY1N0gel9RA2)  |  [**Replay**](https://manus.im/share/c3onakN6Iajcm1Vt1xAVG7?replay=1)
+   - **Link**: [https://manus.im/share/ls6jeWDl5omY1N0gel9RA2](https://manus.im/share/ls6jeWDl5omY1N0gel9RA2)  |  [**Replay**](https://manus.im/share/ls6jeWDl5omY1N0gel9RA2?replay=1)
    - **Attachment**: [salesforce_agentforce_market_calculator_report.md](./Attachments/ls6jeWDl5omY1N0gel9RA2/salesforce_agentforce_market_calculator_report.md)
 
 4. **AWS Performance Metrics and $10T Market Valuation Analysis**
@@ -188,57 +188,141 @@ comprehend the workings and decision-making processes of the AI .
    - **Description**: Debunk or confirm whether Jupiter and Saturn align so closely that they create a special “Christmas Star” every 800 years or so, including an occurrence around 0 AD, providing convincing evidence without relying on other sources.  
    - **Link**: [https://manus.im/share/rK3HzIGPADmsxXuETdAoBP](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP)  |  [**Replay**](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)(https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)
 
-35. **Research how fire control technologies aided the U.S. Pacific Fleet in WWII**  
+35. **Research how fire control technologies aided the U.S. Pacific Fleet in WWII**  ![image](https://github.com/user-attachments/assets/1266e01f-735a-4f79-8ca1-05e749d3a8f5)
+
    - **Description**: Research damage control, particularly how fire control technologies helped the U.S. Pacific Fleet resist air attacks and ultimately defeat Japan during WWII. Focus on the Pearl Harbor attack, the Battle of Midway, and the Battle of the Coral Sea.  
    - **Link**: [https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9)  |  [**Replay**](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)(https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)
 
-36. **Best Books on Media and Linguistics in France 2019-2025**  
-   - **Description**: A curated list of the best books on media (Dewey 070-099) and linguistics (Dewey 400-409) published in France between 2019 and 2025, including summaries of their significance.  
-   - **Link**: [https://manus.im/share/mvppKbruZGKLeIGDfuLRVw](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw) | [**Replay**](https://manus.im/share/mvppKbruZGKLeIGDfuLRVw?replay=1)
-
-37. **Largest Real Estate Brokerages in Major Metro Areas**  
-   - **Description**: An analysis of the largest real estate brokerages in the top 10 U.S. metro areas, detailing agent numbers, transactions, revenue, and average commission per side.  
-   - **Link**: [https://manus.im/share/qinzRC0m770weHZbbLkmjk](https://manus.im/share/qinzRC0m770weHZbbLkmjk) | [**Replay**](https://manus.im/share/qinzRC0m770weHZbbLkmjk?replay=1)
-
-38. **Impact of Fire Control Technologies on U.S. Victory in WWII**  
-   - **Description**: A research study on how fire control technologies aided the U.S. Pacific Fleet in surviving air strikes during WWII, focusing on Pearl Harbor, Midway, and Coral Sea battles.  
-   - **Link**: [https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9) | [**Replay**](https://manus.im/share/H6IP1nwQNuXArPDQpXLNu9?replay=1)
-
-39. **Generate SEO-Friendly Blog That Passes Google AI Test**  
+36. **Generate SEO-Friendly Blog That Passes Google AI Test**  
    - **Description**: A guide on creating blog content optimized for SEO and compliant with Google’s AI content detection standards.  
    - **Link**: [https://manus.im/share/xXJI86iOnCN86hsDgUCBZU](https://manus.im/share/xXJI86iOnCN86hsDgUCBZU) | [**Replay**](https://manus.im/share/xXJI86iOnCN86hsDgUCBZU?replay=1)
 
-40. **Impact of Climate Change on Earth and Society Next Century**  
-   - **Description**: A detailed report projecting the effects of climate change on Earth’s ecosystems and human society over the next 100 years.  
-   - **Link**: [https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25) | [**Replay**](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25?replay=1)
-
-41. **Best Hiking Trails in the Swiss Alps**  
-   - **Description**: A researched list of top hiking trails in the Swiss Alps, with details on difficulty, scenery, and accessibility.  
-   - **Link**: [https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9) | [**Replay**](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)
-
-42. **Scriptwriting Tools for Video Production and Narrative Design**  
-   - **Description**: A selection of tools to streamline scriptwriting, dialogue, and storyboarding for video production and narrative design.  
-   - **Link**: [https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD) | [**Replay**](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD?replay=1)
-
-43. **Two-Month Family Trip Itinerary and Guide**  
-   - **Description**: A comprehensive travel handbook for a two-month family trip across Australia, New Zealand, Argentina, South America, and Antarctica, including itinerary, accommodations, budget, and food guide.  
-   - **Link**: [https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i) | [**Replay**](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i?replay=1)
-
-44. **New Ways to Play The Sims**  
+37. **New Ways to Play The Sims**  
    - **Description**: A YouTube script exploring player types, motivations, and innovative ways to enjoy The Sims, tailored for fans.  
    - **Link**: [https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd) | [**Replay**](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd?replay=1)
 
-45. **Do Jupiter and Saturn Form a Christmas Star Every 800 Years?**  
-   - **Description**: An investigation into the claim that Jupiter and Saturn align to form a 'Christmas Star' every 800 years, with evidence-based validation or debunking.  
-   - **Link**: [https://manus.im/share/rK3HzIGPADmsxXuETdAoBP](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP) | [**Replay**](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)
-
-46. **Challenges in Adapting ICE for Titan’s Conditions**  
+38. **Challenges in Adapting ICE for Titan’s Conditions**  
    - **Description**: A study on the technical challenges of adapting internal combustion engines (ICE) to Titan’s methane-rich atmosphere and extreme conditions.  
    - **Link**: [https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm) | [**Replay**](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm?replay=1)
 
-47. **YTD Performance of MEGA7 Stocks**  
+39. **YTD Performance of MEGA7 Stocks**  
    - **Description**: A report on the year-to-date performance of the MEGA7 stocks as of March 08, 2025, based on available financial data.  
    - **Link**: [https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1) | [**Replay**](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1?replay=1)
+
+
+40. **4-Day Romantic Break in Europe Itinerary**  
+   - **Description**: Help me plan a 4-day romantic break in Europe for 2 people, during the next 2 months. Please include itinerary arrangements, accommodation recommendations, budget estimates, and a food guide, and then generate a detailed travel handbook. Keep the budget at £1000 maximum, give me at least 5 options in different European countries, provide a detailed list of the itinerary including prices for travel, accommodation, and places, remember accommodation can be a hotel or an Airbnb, within the next 2 months choose the cheapest price to go and avoid UK school holidays.  
+   - **Link**: [https://manus.im/share/1aFCsTNjzNjHeEHqKVIExO](https://manus.im/share/1aFCsTNjzNjHeEHqKVIExO) | [**Replay**](https://manus.im/share/1aFCsTNjzNjHeEHqKVIExO?replay=1)  
+
+
+
+41. **Accelerated Freezing Machine Concept and Research Review**  
+   - **Description**: As an advanced AI assistant, I task you with researching and synthesizing all available research papers, articles, and posts related to the development of an accelerated freezing machine designed as a home appliance, capable of freezing items extremely quickly, analogous to how a microwave heats items rapidly. Your objective is to:  
+     - Conduct a comprehensive review of existing literature and online content, including academic papers, patents, and relevant discussions on platforms like X, focusing on technologies such as microwave-assisted freezing, cryogenic methods, ultrasonic freezing, and other innovative rapid-freezing techniques.  
+     - Analyze the underlying principles, mechanisms, and challenges (e.g., ice crystal formation, energy efficiency, and scalability) identified in these sources that could be adapted for a compact, domestic appliance.  
+     - Propose a conceptual design for a novel accelerated freezing machine, detailing:  
+       - The core technology or combination of technologies (e.g., electromagnetic waves, rapid evaporative cooling, or enhanced heat transfer methods) to achieve ultra-fast freezing.  
+       - A feasible engineering approach to miniaturize and optimize the system for home use, ensuring safety, cost-effectiveness, and energy efficiency.  
+       - Potential materials, components, and power requirements to freeze items (e.g., food, beverages) in seconds or minutes, mirroring the speed of microwave heating.  
+     - Address key engineering constraints, such as preventing frostbite hazards, maintaining food quality (e.g., minimizing cellular damage), and ensuring compatibility with standard household power supplies.  
+     - Provide a brief assessment of gaps in current research and suggest areas for further experimentation or prototyping to realize this appliance.  
+     Leverage your deep research capabilities to gather cutting-edge insights, and present a clear, innovative solution grounded in the synthesized data as of March 08, 2025.  
+   - **Link**: [https://manus.im/share/CXARwKT84KlXT4pFTcQ8Og](https://manus.im/share/CXARwKT84KlXT4pFTcQ8Og) | [**Replay**](https://manus.im/share/CXARwKT84KlXT4pFTcQ8Og?replay=1)  
+
+
+
+42. **AI Driven Researcher Matching for Collaboration Study**  
+   - **Description**: Draft a 10-page research proposal aimed to study AI-driven researcher matching for fostering collaboration on a potential project.  
+   - **Link**: [https://manus.im/share/nmPNDLQimt2QzwF8bnXFhe](https://manus.im/share/nmPNDLQimt2QzwF8bnXFhe) | [**Replay**](https://manus.im/share/nmPNDLQimt2QzwF8bnXFhe?replay=1)  
+
+
+
+43. **Analysis of Political Party Mentions in Online Newspapers**  
+   - **Description**: Please analyze the online published newspapers [http://noz.de](http://noz.de) and [http://Hasepost.de](http://Hasepost.de) on how often they mentioned the political parties CDU, SPD, Grüne, FDP, AfD, BSW, and Linke, or their candidates, in the time between December 1st, 2024, and February 23rd, 2025. Do not only count the mentions, also analyze if the perspective of the article was neutral, negative, or positive. If you find other interesting findings during your research, please share this also in your report. Use techniques of the content analytics skill used by social or media scientists. Please write your report in accordance with text document, add Excel sheets with the data, and make a PowerPoint presentation with your key findings. Provide the report in English and in a copy translated to German language.  
+   - **Link**: [https://manus.im/share/MRR5MGB4jJK3NXpqfbhyT6](https://manus.im/share/MRR5MGB4jJK3NXpqfbhyT6) | [**Replay**](https://manus.im/share/MRR5MGB4jJK3NXpqfbhyT6?replay=1)  
+
+
+
+44. **Analysis of Suboptimal Light Exposure Problems**  
+   - **Description**: Give me an analysis of problems of having suboptimal light exposure for humans. Full detailed analysis please. Can you make a single file? Markdown. Great, how about a single PDF as well?  
+   - **Link**: [https://manus.im/share/sTZnk0If2Lw3fuquV1PPvA](https://manus.im/share/sTZnk0If2Lw3fuquV1PPvA) | [**Replay**](https://manus.im/share/sTZnk0If2Lw3fuquV1PPvA?replay=1)  
+
+
+
+45. **Analyzing Future of Humanoid Business**  
+   - **Description**: Help me analyze the humanoid business future.  
+   - **Link**: [https://manus.im/share/MjODyrFR200zZ7Jiz4JQPh](https://manus.im/share/MjODyrFR200zZ7Jiz4JQPh) | [**Replay**](https://manus.im/share/MjODyrFR200zZ7Jiz4JQPh?replay=1)  
+
+
+
+46. **App for Daily Utility Energy Billing News**  
+   - **Description**: I want Manus to build an app to search the web every day for utility energy billing news from Kracken, Gentrack Hansen, powercloud, Kaluza, Oracle, SAP including new products, RFP shortlists, new customer wins, or articles in energy industry news sites thanks. Sorry, instead of an app, can you just create a webpage with the same information, and can be updated with one click on another day?  
+   - **Link**: [https://manus.im/share/SccUKNXHwmSYlp8iDSFeM5](https://manus.im/share/SccUKNXHwmSYlp8iDSFeM5) | [**Replay**](https://manus.im/share/SccUKNXHwmSYlp8iDSFeM5?replay=1)  
+
+
+
+47. **Best Resources for Reinforcement Learning**  
+   - **Description**: Collect the best learning resources for reinforcement learning for me.  
+   - **Link**: [https://manus.im/share/xPRjK0rZRU2sVcYqikVAmQ](https://manus.im/share/xPRjK0rZRU2sVcYqikVAmQ) | [**Replay**](https://manus.im/share/xPRjK0rZRU2sVcYqikVAmQ?replay=1)  
+
+
+
+48. **Cooling and Cryopreservation System for Tissue Samples**  
+   - **Description**: I need to build a system for rapidly cooling and cryopreserving a ≈2kg body tissue sample indefinitely (let’s say a brain), which can work continuously for years on nothing more than electricity supply, without reliance on purchasing cooling agents from third parties. Propose the most plausible way to do this. Assume that power is not an issue. Give estimates for costs and requirements. The report is too lazy. Make it to 40K words, especially detailing and refining the math for cooling and operation costs.  
+   - **Link**: [https://manus.im/share/inlMMG9Iq6duFczdl8Fcr1](https://manus.im/share/inlMMG9Iq6duFczdl8Fcr1) | [**Replay**](https://manus.im/share/inlMMG9Iq6duFczdl8Fcr1?replay=1)  
+
+
+
+49. **Dashboard for LBO Targets Analysis in Japan**  
+   - **Description**: Please build a dashboard for me that summarizes an analysis of suitable LBO targets in Japan. Ideal targets are listed companies that trade below 5x EV/EBITDA, less than $2bn in EV, no controlling or dominant shareholder above 20% ownership, relatively stable or positive business momentum in industries that are generally benefiting from tailwinds. The dashboard should show historical financial information and projections going forward, and a graphical depiction of the capital structure (cash vs debt), and an LBO analysis. Please give me the top 5 targets. OK, let’s keep going:  
+     - [x] Set up project directory and install required libraries  
+     - [x] Define detailed LBO criteria parameters  
+     - [ ] Collect data on Japanese listed companies  
+     - [ ] Implement filtering based on financial criteria  
+     - [ ] Analyze shareholder structure for controlling interests  
+     - [ ] Assess business performance and industry outlook  
+     - [ ] Create LBO models for top candidates  
+     - [ ] Develop visualizations for capital structure  
+     - [ ] Build comprehensive dashboard with all analyses  
+     Let’s spruce it up, and style it like a 90’s style Japanese video game. Can you render it as a fully hosted HTML instead? You’ll get a lot more creative juice out of it. Sandbox not found, please redeploy. Great, let’s get a permanent deployment link, this is awesome. I’ve also noticed that the background image is from Imgur, and probably needs to be downloaded instead of referenced directly in the HTML. Can we add a language selector between ENGLISH | 中文 at the top and then translate the rest of the app based on that? OK, let’s revert all of those changes to just the English language one, this one doesn’t look very good.  
+   - **Link**: [https://manus.im/share/KRTwnMwEucXG91cecqe4Xv](https://manus.im/share/KRTwnMwEucXG91cecqe4Xv) | [**Replay**](https://manus.im/share/KRTwnMwEucXG91cecqe4Xv?replay=1)  
+
+
+
+50. **Designing a Calm Pop Culture Room on $15,000 Budget**  
+   - **Description**: Design a 14x16 ft room with a calm, pop culture vibe, including a workspace and bed area. Use plants and decor, starting from scratch with a $15,000 budget. List products I can buy in the US and their arrangement for a stylish look. Give me a graphical representation of the final design. I like this plan, but can I get more choices to choose from? One with a different room layout, one with a new furniture style, make it more Scandinavian. Then please make a more realistic graph instead of a 2D graph with squares. Generate 3D room layouts for the three different room layouts please, maybe use the first product you recommend in the picture. Can these visualizations be interactive? Like I can turn the graphs to view from different angles? Yes. Make it a permanent site.  
+   - **Link**: [https://manus.im/share/oto7Omj4Ua8WVHjc8bETIF](https://manus.im/share/oto7Omj4Ua8WVHjc8bETIF) | [**Replay**](https://manus.im/share/oto7Omj4Ua8WVHjc8bETIF?replay=1)  
+
+
+
+51. **Gym Membership Under $45 Near Washington Square Park**  
+   - **Description**: Can I get a gym membership for under $45 within a 10-block distance of Washington Square Park? I’ve passed the CAPTCHA for you.  
+   - **Link**: [https://manus.im/share/93zo2UfCvjwBVQiNbrZXt6](https://manus.im/share/93zo2UfCvjwBVQiNbrZXt6) | [**Replay**](https://manus.im/share/93zo2UfCvjwBVQiNbrZXt6?replay=1)  
+
+
+
+52. **Resizing Vintage Art for E-commerce Display**  
+   - **Description**: I have an e-commerce website that resells vintage art printing it on textile canvas with wooden frames. I am stuck with resizing every art piece that I have access to through the internet. Find the original sizes of arts and give me 5 resized options with the same aspect ratio of the original size.  
+   - **Link**: [https://manus.im/share/Af2ivYUEiUsEkVIpYc7VPE](https://manus.im/share/Af2ivYUEiUsEkVIpYc7VPE) | [**Replay**](https://manus.im/share/Af2ivYUEiUsEkVIpYc7VPE?replay=1)  
+
+
+
+53. **Salesforce Agent Product Analysis and Outlook**  
+   - **Description**: Deep analysis on Salesforce and the outlook for their Agent product. Great, so how important will it affect its stock price, or what factors to look at or monitor in terms of the Agent product will affect the stock price? But what is the market size for its Agent product? Can you calculate the market size for me? Can you build a calculator in terms of best and worst scenario? Can I run the Python here? Can you build a web app that I can run on the web for this calculator? Please, and tell me how to run it or host this app? Please create this web app and host it for me.  
+   - **Link**: [https://manus.im/share/ls6jeWDl5omY1N0gel9RA2](https://manus.im/share/ls6jeWDl5omY1N0gel9RA2) | [**Replay**](https://manus.im/share/ls6jeWDl5omY1N0gel9RA2?replay=1)  
+
+
+
+54. **Trading Strategies on Thinkorswim for Successful Trades**  
+   - **Description**: Give me a strategy using the Thinkorswim trading platform to find trade ideas to execute based on technical analysis, research, news, on which options to buy or sell that allows me to increase my probability of having successful trades.  
+   - **Link**: [https://manus.im/share/K4raisGr5zw3pKTcrYI7dk](https://manus.im/share/K4raisGr5zw3pKTcrYI7dk) | [**Replay**](https://manus.im/share/K4raisGr5zw3pKTcrYI7dk?replay=1)  
+
+
+
+55. **Market Research on Mobile and Web Games Comparison**  
+   - **Description**: Conduct market research comparing mobile and web games.  
+   - **Link**: [https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA) | [**Replay**](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA?replay=1)  
+
 
 
 ## 中文用例
