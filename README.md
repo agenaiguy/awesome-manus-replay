@@ -324,6 +324,38 @@ comprehend the workings and decision-making processes of the AI .
    - **Link**: [https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA) | [**Replay**](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA?replay=1)  
 
 
+56. **Impact of Climate Change on Earth and Society Next Century**  
+   - **Description**: A detailed report projecting the effects of climate change on Earth’s ecosystems and human society over the next 100 years.  
+   - **Link**: [https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25) | [**Replay**](https://manus.im/share/WB6qiUBGeXHI9gpu1MlW25?replay=1)
+
+57. **Best Hiking Trails in the Swiss Alps**  
+   - **Description**: A researched list of top hiking trails in the Swiss Alps, with details on difficulty, scenery, and accessibility.  
+   - **Link**: [https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9) | [**Replay**](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)
+
+58. **Scriptwriting Tools for Video Production and Narrative Design**  
+   - **Description**: A selection of tools to streamline scriptwriting, dialogue, and storyboarding for video production and narrative design.  
+   - **Link**: [https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD) | [**Replay**](https://manus.im/share/6a3roFwgj97Cs3UJJDvGlD?replay=1)
+
+59. **Two-Month Family Trip Itinerary and Guide**  
+   - **Description**: A comprehensive travel handbook for a two-month family trip across Australia, New Zealand, Argentina, South America, and Antarctica, including itinerary, accommodations, budget, and food guide.  
+   - **Link**: [https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i) | [**Replay**](https://manus.im/share/7smHTo1ES2bgKtN2qz6a5i?replay=1)
+
+60. **New Ways to Play The Sims**  
+   - **Description**: A YouTube script exploring player types, motivations, and innovative ways to enjoy The Sims, tailored for fans.  
+   - **Link**: [https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd) | [**Replay**](https://manus.im/share/FM1Kbc0Ul2vOykxEfmUdDd?replay=1)
+
+61. **Do Jupiter and Saturn Form a Christmas Star Every 800 Years?**  
+   - **Description**: An investigation into the claim that Jupiter and Saturn align to form a 'Christmas Star' every 800 years, with evidence-based validation or debunking.  
+   - **Link**: [https://manus.im/share/rK3HzIGPADmsxXuETdAoBP](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP) | [**Replay**](https://manus.im/share/rK3HzIGPADmsxXuETdAoBP?replay=1)
+
+62. **Challenges in Adapting ICE for Titan’s Conditions**  
+   - **Description**: A study on the technical challenges of adapting internal combustion engines (ICE) to Titan’s methane-rich atmosphere and extreme conditions.  
+   - **Link**: [https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm) | [**Replay**](https://manus.im/share/9zuRPEpMjdfNYpKSf3sDMm?replay=1)
+
+63. **YTD Performance of MEGA7 Stocks**  
+   - **Description**: A report on the year-to-date performance of the MEGA7 stocks as of March 08, 2025, based on available financial data.  
+   - **Link**: [https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1) | [**Replay**](https://manus.im/share/bVaDFiTxVQE2J1ZDPl2uf1?replay=1)
+
 
 ## 中文用例
 
@@ -441,3 +473,84 @@ comprehend the workings and decision-making processes of the AI .
 23. **小米 AI 眼镜各平台比价推荐**
     - **描述**: 在各大平台对比小米 AI 眼镜的价格，并推荐最优购买方案。
     - **链接**: [https://manus.im/share/95oTLizAFkAlDWEKlEzsN6](https://manus.im/share/95oTLizAFkAlDWEKlEzsN6)  |  [**回放**](https://manus.im/share/95oTLizAFkAlDWEKlEzsN6?replay=1)
+   
+24. **DeepSeek开源对AI社区影响及技术预测 **  
+   - **描述**: 研究DeepSeek技术开源后对于目前AI开源社区的影响，以及2025年整体AI技术爆发的方向和具体技术的预测。DeepSeek作为一款由中国团队开发的高性能开源大模型，其开源对全球AI社区的资源共享、模型优化及应用落地有深远影响。2025年AI技术预计将在多模态融合（文本、图像、语音）、高效推理（如MoE架构）和行业定制化模型（如医疗、金融）方向爆发。  
+   - **链接**: [https://manus.im/share/8jfKl9ZmdXfxVPxBOIEFuZ](https://manus.im/share/8jfKl9ZmdXfxVPxBOIEFuZ) | [**回放**](https://manus.im/share/8jfKl9ZmdXfxVPxBOIEFuZ?replay=1)
+
+25. **Manus.im 产品背后的开发团队调查报告 **  
+   - **描述**: 调查最新发布的Manus.im（一款超级强大的AI Agent）背后的开发团队或公司，并生成详细PDF报告。经搜索，Manus.im由一支专注于AI生产力工具的团队开发，可能与xAI或其他创新型科技公司有技术关联。报告将包括团队背景、技术栈、市场定位及产品竞争力分析，PDF格式提供完整细节。  
+   - **链接**: [https://manus.im/share/xTzpvj6M5ZxsfNZKASVCvh](https://manus.im/share/xTzpvj6M5ZxsfNZKASVCvh) | [**回放**](https://manus.im/share/xTzpvj6M5ZxsfNZKASVCvh?replay=1)
+
+26. **Market Research on Mobile and Web Games Comparison **  
+   - **描述**: 针对不同类型移动排序游戏进行市场研究，并与网络游戏的潜力进行比较，分析网络游戏相较于移动、Steam和主机平台的防御性。移动游戏以便捷性和碎片化时间利用为主，网络游戏则凭借跨平台兼容性、低硬件需求和社交功能具独特优势。报告将提供数据支持和竞争策略建议。  
+   - **链接**: [https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA) | [**回放**](https://manus.im/share/hkEJPbnzKtzJ5auqZ3HHFA?replay=1)
+
+27. **OpenAI发展路线图及Mermaid流程图 **  
+   - **描述**: 用中文分析OpenAI的发展路线图，并以Mermaid流程图形式呈现，便于理解。从GPT-1到GPT-4及后续计划，OpenAI聚焦语言模型、多模态AI及AGI研究。流程图将展示技术迭代、商业化路径及关键里程碑（如ChatGPT发布），简洁直观。  
+   - **链接**: [https://manus.im/share/rKOl3l6Im1cGdvpu4Zlkar](https://manus.im/share/rKOl3l6Im1cGdvpu4Zlkar) | [**回放**](https://manus.im/share/rKOl3l6Im1cGdvpu4Zlkar?replay=1)
+
+28. **中国房地产反弹的计量经济学分析 **  
+   - **描述**: 搜集2025年最新数据，使用计量经济学方法（如时间序列分析、回归模型）分析中国房地产市场是否反弹。结合政策刺激（如降息、放宽限购）、房价指数及成交量等变量，评估市场趋势并给出结论。  
+   - **链接**: [https://manus.im/share/tR5HpNn2nrtKJnDBVjN5Yt](https://manus.im/share/tR5HpNn2nrtKJnDBVjN5Yt) | [**回放**](https://manus.im/share/tR5HpNn2nrtKJnDBVjN5Yt?replay=1)
+
+29. **云南七天情侣游攻略及预算 **  
+   - **描述**: 提供适合情侣的云南七天游攻略，包含图文、交通方式（飞机/高铁+租车）、酒店推荐及8000元预算分配。行程覆盖昆明、大理、丽江等，附详细费用清单和PDF下载。  
+   - **链接**: [https://manus.im/share/B1gBzU4u72AL0eHjJhDmt5](https://manus.im/share/B1gBzU4u72AL0eHjJhDmt5) | [**回放**](https://manus.im/share/B1gBzU4u72AL0eHjJhDmt5?replay=1)
+
+30. **亚马逊SOTP估值模型构建与分析 **  
+   - **描述**: 根据亚马逊Non-GAAP业务分部构建SOTP估值模型，估算未披露利润率和现金流的业务（如AWS、1P、3P、Others），参考高盛、BAML等研报逻辑。调整3P业务占比至GMV的65%、OPM至10%-15%，最终交付简体中文+英文估值报告，包含估值结果及底稿。  
+   - **链接**: [https://manus.im/share/xOsSQZL51ZlgConYASsAsy](https://manus.im/share/xOsSQZL51ZlgConYASsAsy) | [**回放**](https://manus.im/share/xOsSQZL51ZlgConYASsAsy?replay=1)
+
+31. **创建周百见多语言官网吸引用户购买服务 **  
+   - **描述**: 基于周百见的方法论总结、播客对谈及两张照片，设计多语言官网（简体中文、繁体中文、英语、日文），突出其“创始人IP顾问”服务优势，吸引全球亿级用户购买。官网将包含照片、案例展示及购买入口。  
+   - **链接**: [https://manus.im/share/yOycR2NvksUBL62QbcKyIT](https://manus.im/share/yOycR2NvksUBL62QbcKyIT) | [**回放**](https://manus.im/share/yOycR2NvksUBL62QbcKyIT?replay=1)
+
+32. **制作射击小游戏指南 **  
+   - **描述**: 提供制作射击小游戏的详细指南，涵盖游戏设计（目标、关卡）、技术实现（Unity/UE4编程）及资源推荐。适合初学者，包含代码示例和步骤说明。  
+   - **链接**: [https://manus.im/share/xE5kk9lsSoAcFNwj3sOcbR](https://manus.im/share/xE5kk9lsSoAcFNwj3sOcbR) | [**回放**](https://manus.im/share/xE5kk9lsSoAcFNwj3sOcbR?replay=1)
+
+33. **小红书笔记创作指南 **  
+   - **描述**: 参考百度文库brief及用户文案风格，创作10篇小红书笔记（1000字内，4段，✨小标题），突出“百度文库+DeepSeek-R1”一站式功能，取代“DeepSeek+其他”组合。语气自然，强调实用性，符合甲方需求。  
+   - **链接**: [https://manus.im/share/6vU5tFhNJNznVrm7lNncan](https://manus.im/share/6vU5tFhNJNznVrm7lNncan) | [**回放**](https://manus.im/share/6vU5tFhNJNznVrm7lNncan?replay=1)
+
+
+34. **微信群聊信息监控机器人开发指南 - Manus**  
+   - **描述**: 为Jonathan Chen编写微信群聊信息监控机器人开发指南，目标是实时监测群聊中@hidecloud@Monica.im的消息。一旦检测到8位数字和字母混合的消息（如“Xy12K9pM”），自动将其复制到[https://manus.im/invitation/waitlist](https://manus.im/invitation/waitlist)文本框并点击发送。指南将基于Python+WeChatPy或itchat库实现，包含环境搭建、代码示例（如正则表达式匹配8位混合消息）、自动化操作（如Selenium操控网页）及部署步骤。  
+   - **链接**: [https://manus.im/share/flo3wfcTSDu8G3PbgUMahm](https://manus.im/share/flo3wfcTSDu8G3PbgUMahm) | [**回放**](https://manus.im/share/flo3wfcTSDu8G3PbgUMahm?replay=1)
+
+35. **感受烟花绽放的温暖 - Manus**  
+   - **描述**: 创作一个HTML页面，模拟烟花在漆黑夜晚绽放的温暖场景。页面需解决以下问题：1)调整背景为深邃静谧的黑色星空，优化烟花升空轨迹（CSS动画）和绽放效果（Canvas粒子效果），加入轻柔绽放音效（如“噼啪”声）；2)烟花升空后需真实绽放，呈现多彩扩散粒子，参考现实烟花物理特性。原链接失效，提供新体验链接，并打包为ZIP文件含HTML、CSS、JS及音效资源。  
+   - **链接**: [https://manus.im/share/nZrxWbi3PMNz96e7uHJfMe](https://manus.im/share/nZrxWbi3PMNz96e7uHJfMe) | [**回放**](https://manus.im/share/nZrxWbi3PMNz96e7uHJfMe?replay=1)
+
+36. **收盘同花顺点评及策略总结 - Manus**  
+   - **描述**: 基于同花顺收盘数据，生成当日市场点评：1)总结今日榜单（如涨幅前十股票及板块热点）；2)预测明日板块方向（如新能源、半导体等）；3)提出短线策略（如低吸高抛、热点追逐）；4)整理一套A股股神秘籍（趋势分析、技术指标、情绪管理），发布至公众号供参考。数据参考同花顺官网及实时行情。  
+   - **链接**: [https://manus.im/share/ZvpoDJ94R2xRUPYzdL5X3f](https://manus.im/share/ZvpoDJ94R2xRUPYzdL5X3f) | [**回放**](https://manus.im/share/ZvpoDJ94R2xRUPYzdL5X3f?replay=1)
+
+37. **深圳到香港马拉松路线设计与标注 - Manus**  
+   - **描述**: 设计一条从深圳到香港的马拉松路线（42.195公里），起点可选深圳湾公园，途径罗湖口岸或福田口岸，终点设香港维多利亚公园。在Google Maps或百度地图上标注关键节点（补给站、检查点），提供路线描述、交通建议及注意事项（需快速响应B站网友期待，即使初稿“垃圾版”也先交付）。  
+   - **链接**: [https://manus.im/share/JkwU2NCwi7T24DmzV4Uzco](https://manus.im/share/JkwU2NCwi7T24DmzV4Uzco) | [**回放**](https://manus.im/share/JkwU2NCwi7T24DmzV4Uzco?replay=1)
+
+38. **知识工作者如何应对失业风险 - Manus**  
+   - **描述**: 以周百见第一人称视角，编写10个短视频文案，面向老板群体，核心观点：Manus跨领域能力超员工，知识工作者需成为“十倍专业人士”（借鉴“十倍工程师”，扩展至运营、产品、销售等）抵御失业风险，老板需面对用工挑战。文案融入创始人IP顾问背景，强调个人品牌差异性，风格参考示例，丝滑加入Manus介绍（如“每次AI新产品发布，就是我们自媒体装逼大赛开始的时候”），并提供诊断表。  
+   - **链接**: [https://manus.im/share/Dgt7phHdZnEGpyTAgt6QLE](https://manus.im/share/Dgt7phHdZnEGpyTAgt6QLE) | [**回放**](https://manus.im/share/Dgt7phHdZnEGpyTAgt6QLE?replay=1)
+
+39. **跳动彩球视频制作指令 - Manus**  
+   - **描述**: 按指令生成9秒视频，包含三场景：1)红背景蓝球跳两次；2)黄背景红球跳两次；3)蓝背景黄球跳两次。每场景3秒，1080p分辨率，球体具弹性变形及自然运动，背景简洁。视频无过渡直接拼接，配轻快无版权音乐（如“Jingle Punks”），输出MP4格式。提供成品下载链接。  
+   - **链接**: [https://manus.im/share/7yUV3xOk7UuHP0pf13k2me](https://manus.im/share/7yUV3xOk7UuHP0pf13k2me) | [**回放**](https://manus.im/share/7yUV3xOk7UuHP0pf13k2me?replay=1)
+
+40. **通用智能体产品命名与域名选择 - Manus**  
+   - **描述**: 为类似Manus的通用智能体产品设计名字，需独特、有寓意（如“NeuraNest”意为智能巢），在Google、GitHub、Twitter无重名。选定后在Namecheap确认.com和.ai域名可用（如neurarest.com、neurarest.ai），提供命名依据及域名截图。  
+   - **链接**: [https://manus.im/share/m2c8dMGXedeXY95fLzOExv](https://manus.im/share/m2c8dMGXedeXY95fLzOExv) | [**回放**](https://manus.im/share/m2c8dMGXedeXY95fLzOExv?replay=1)
+
+41. **面试AI产品经理应聘策略指南 - Manus**  
+   - **描述**: 提供AI产品经理面试全流程指南，包含简历优化、行为问题准备、技术问题应对（如AI模型原理）、案例分析及模拟面试。附YouTube视频推荐（如“AI Product Management 101”），旨在最大化通过率，含实例及注意事项。  
+   - **链接**: [https://manus.im/share/JREKMl7HXD7iXoj7UFDwld](https://manus.im/share/JREKMl7HXD7iXoj7UFDwld) | [**回放**](https://manus.im/share/JREKMl7HXD7iXoj7UFDwld?replay=1)
+
+42. **黄峥心理侧写与决策模式分析报告 - Manus**  
+   - **描述**: 收集拼多多创始人黄峥公开演讲、采访及互联网分析文章（如36氪、虎嗅），剖析其世界观（实用主义）、人生观（低调务实）、价值观（用户至上），推演决策模式（数据驱动+长期主义）。输出PDF心理侧写报告，揭示内心驱动。  
+   - **链接**: [https://manus.im/share/i3sOdCH5W64vVSo4DOsLy9](https://manus.im/share/i3sOdCH5W64vVSo4DOsLy9) | [**回放**](https://manus.im/share/i3sOdCH5W64vVSo4DOsLy9?replay=1)
+
+43. **黄铮观点合集PDF制作指南 - Manus**  
+   - **描述**: 制作50页A5尺寸PDF，收录黄峥“金句”（如“用户需求是第一性原理”），来源互联网、公众号及公开表达。每页一句，字号大，仿《答案之书》风格排版，含简洁设计元素，提供下载链接。  
+   - **链接**: [https://manus.im/share/yjZ8kKBtvR9hmCYWF6E146](https://manus.im/share/yjZ8kKBtvR9hmCYWF6E146) | [**回放**](https://manus.im/share/yjZ8kKBtvR9hmCYWF6E146?replay=1)
