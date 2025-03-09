@@ -1,9 +1,9 @@
 # awesome-manus-replay
 ![awesome-manus-replay-image](./files/repoimage.png)
 
-Currently collecting some awesome Manus replays.
+Currently collecting 100+ awesome Manus replays.
 
-## What is Manus?
+## What is Manus ai?
 Manus is a general AI agent developed by a Chinese team called Monica, designed to assist users in completing a variety of complex tasks. Its capabilities include, but are not limited to:
 
 - **Task Execution**: Manus can independently perform a wide range of tasks such as writing articles, creating presentations, coding, and conducting data analysis. Users only need to provide simple instructions, and Manus delivers complete results rather than just suggestions or answers.
